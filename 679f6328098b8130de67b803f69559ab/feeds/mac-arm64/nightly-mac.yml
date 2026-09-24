@@ -1,0 +1,8 @@
+version: 0.1.7-rc.1
+files:
+  - url: https://github.com/piggy00544/dsh-desk/releases/download/dsh-v0.1.7-rc.1/deepseek-harness-0.1.7-rc.1-mac-arm64.zip
+    sha512: UMIonLUv4bpfUM3w0RIxSIoTjruqioMeactuowJ0jMlwaRSpvc6O0+PEA+EAob1kjxLsg4q4w1DICLhp6BGp7w==
+    size: 383089114
+path: https://github.com/piggy00544/dsh-desk/releases/download/dsh-v0.1.7-rc.1/deepseek-harness-0.1.7-rc.1-mac-arm64.zip
+sha512: UMIonLUv4bpfUM3w0RIxSIoTjruqioMeactuowJ0jMlwaRSpvc6O0+PEA+EAob1kjxLsg4q4w1DICLhp6BGp7w==
+releaseDate: '2026-09-24T00:10:06.379Z'
